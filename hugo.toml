@@ -1,4 +1,4 @@
 baseURL = 'https://ecole-elem-langogne.github.io/'
 languageCode = 'fr-fr'
 title = 'Site des écoles publiques de Langogne'
-theme = 'beautifulhugo'
+theme = 'hugo-flex'
