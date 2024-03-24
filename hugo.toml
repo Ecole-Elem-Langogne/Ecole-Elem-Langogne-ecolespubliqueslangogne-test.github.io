@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://ecole-elem-langogne.github.io/'
+languageCode = 'fr-fr'
+title = 'Site des écoles publiques de Langogne'
 theme = 'ananke'
